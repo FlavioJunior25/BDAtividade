@@ -1,5 +1,5 @@
 # BDAtividade
-Atividades referente a Banco de Dados
+Atividade referente a Banco de Dados + Resposta
 
 <p>1. Com base no modelo acima, escreva um comando SQL que liste a quantidade de processos por
 Status com sua descrição.</p>
